@@ -22,9 +22,9 @@ Unter dem Ordner KiCad findet ihr die Projektdateien:
 ## Features
 
 * Zählbereich: 0–99
-* Mit Einschalttaste um Energie zu sparen
+* Mit Einschaltschalter um Energie zu sparen
 * Hoch- und Herunterzählen per jeweiligen Taster
-* Automatischer Rücksprung am oberen Limit
+* Automatischer Rücksprung auf 0, wenn 99 erreicht 
 * Kein Unterlauf möglich 
 * Betrieb mit 9-V-Batterie
 
