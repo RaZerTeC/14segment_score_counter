@@ -5,17 +5,18 @@ Punktezähler-Platine für Brett- und Kartenspiele: 0–99 hoch/runterzählbar, 
 Eine kompakte (70*80mm), batteriebetriebene Punktezähl-Platine für den perfekten Spieleabend.
 
 
-Projektdateien:
+Unter dem Ordner KiCad findet ihr die Projektdateien:
 
-- **zaehler.kicad_pro**  
+- **14segment_score_counter.kicad_pro**  
   Hauptprojektdatei von KiCad
 
-- **zaehler.kicad_sch**  
+- **14segment_score_counter.kicad_sch**  
   Schaltplan-Datei
 
-- **zaehler.kicad_pcb**  
+- **14segment_score_counter.kicad_pcb**  
   Leiterplattenlayout
-
+  
+- **Die Fertigungsdaten mit BOM**
 
 
 ## Features
@@ -24,7 +25,7 @@ Projektdateien:
 * Mit Einschalttaste um Energie zu sparen
 * Hoch- und Herunterzählen per jeweiligen Taster
 * Automatischer Rücksprung am oberen Limit
-* Kein Unterlauf möglich (0 bleibt 0)
+* Kein Unterlauf möglich 
 * Betrieb mit 9-V-Batterie
 
 
@@ -35,8 +36,8 @@ Projektdateien:
 2. Einschalttaste auf ON
 3. Up/Down-Taster auf der Platine nutzen, um den Punktestand anzupassen
 4. Mit der Reset-Taste den Punktestand auf 0 zurücksetzen
-5. Bei 99 springt der Zähler automatisch wieder nach vorne
-6. Bei 0 stoppt der Down-Taster (kein Unterlauf)
+5. Bei 99 springt der Zähler automatisch wieder auf 0
+6. Bei 0 stoppt der Down-Taster 
 
 Frontansicht der Platine:
 <img width="923" height="711" alt="grafik" src="https://github.com/user-attachments/assets/b4d6b372-5eba-4860-8a9b-590e5af641de" />
