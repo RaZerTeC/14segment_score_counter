@@ -5,6 +5,18 @@ Punktezähler-Platine für Brett- und Kartenspiele: 0–99 hoch/runterzählbar, 
 Eine kompakte (70*80mm), batteriebetriebene Punktezähl-Platine für den perfekten Spieleabend.
 
 
+Projektdateien:
+
+- **zaehler.kicad_pro**  
+  Hauptprojektdatei von KiCad
+
+- **zaehler.kicad_sch**  
+  Schaltplan-Datei
+
+- **zaehler.kicad_pcb**  
+  Leiterplattenlayout
+
+
 
 ## Features
 
