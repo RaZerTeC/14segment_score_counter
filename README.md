@@ -46,6 +46,9 @@ Rückansicht der Platine
 <img width="923" height="711" alt="grafik" src="https://github.com/user-attachments/assets/20551b87-3b85-4a39-a00f-a5beb8d5715e" />
 
 
+Top-Layer der Platine
+<img width="923" height="711" alt="PlatineVorderseite" src="https://github.com/user-attachments/assets/121ea50e-8065-41cb-9563-2439b8266913" />
+
 
 
 
