@@ -1,5 +1,5 @@
 
-//Author: GB, 
+//Author: GB
 //Last changed: 01.09.2025
 
 // Segmente der Einer-Anzeige (a–g)
