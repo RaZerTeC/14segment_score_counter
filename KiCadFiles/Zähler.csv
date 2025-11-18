@@ -1,0 +1,7 @@
+"ID";"Bezeichner";"Footprint";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"R2,R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";2;"220";;;
+2;"SW4";"Slide_SPDT_PTH_11.6x4.0mm";1;"SPDT_Slide_PTH_11.6x4.0mm";;;
+3;"SW3,SW1,SW2";"SW_PUSH-12mm";3;"SW_Push";;;
+4;"U10,U1";"D1X8K";2;"D168K";;;
+5;"A1";"Arduino_Nano";1;"Arduino_Nano_Every";;;
+6;"BAT1";"Battery_Holder_9V_BC9VPC-ND";1;"BC9VPC";;;
