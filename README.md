@@ -15,7 +15,10 @@ Unter dem Ordner KiCad findet ihr die Projektdateien:
 
 - **14segment_score_counter.kicad_pcb**  
   Leiterplattenlayout
-  
+
+- **14segment_score_counter.ino**  
+  Arduinoprogramm
+    
 - **Die Fertigungsdaten mit BOM**
 
 
